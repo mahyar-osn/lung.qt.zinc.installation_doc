@@ -116,7 +116,7 @@ Install Scaffoldmaker using:
 
 	pip install git+https://github.com/ABI-Software/scaffoldmaker.git
 	
-Scaffoldmaker is used for finite element mesh creation and manipulation within Zinc. It has nice functions that are lepful for building mesh, evaluating fields, fitting, etc.
+Scaffoldmaker is used for finite element mesh creation and manipulation within Zinc. It has nice functions that are helpful for building mesh, evaluating fields, fitting, etc.
 
 Install Enum for python 2.7
 
@@ -140,47 +140,6 @@ Clone the following repo to test and see if everything works fine:
 	python run.py
 	
 You should see a GUI pop up looking similar to the image below:
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	
 <img src="screenshot.png">
 
