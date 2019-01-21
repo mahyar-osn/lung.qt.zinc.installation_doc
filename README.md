@@ -3,8 +3,7 @@
 
 ## Python and Virtualenvironment
 It is always best practice to run Python applications within a virtualenv.
-We will go through virtualenv setup on different platforms. 
-Please note that you will need Python and PIP installed on your machines. If you don't know how to get them installed, please use Google! 
+Please note that you will need Python and PIP installed on your machines. If you don't know how to get them installed, please Google them.
 
 #### Virtualenv Setup
 In a terminal or a command prompt install virtualenv:
