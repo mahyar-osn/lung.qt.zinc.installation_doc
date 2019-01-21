@@ -3,7 +3,8 @@
 
 ## Python and Virtualenvironment
 It is always best practice to run Python applications within a virtualenv.
-Please note that you will need Python and PIP installed on your machines. If you don't know how to get them installed, please Google them.
+We will go through virtualenv setup on different platforms. 
+Please note that you will need Python and PIP installed on your machines. If you don't know how to get them installed, please use Google! 
 
 #### Virtualenv Setup
 In a terminal or a command prompt install virtualenv:
@@ -37,11 +38,7 @@ To install these packages you could simply do:
 
 on ubuntu or similar commands on other platforms.
 
-Now download the OpenCMISS SDK from: 
-
-	http://opencmiss.org/downloads.html
-
-Make sure you download the correct installation depending on the OS of your machine. 
+Now download the OpenCMISS SDK from [here](http://opencmiss.org/downloads.html). Make sure you download the correct installation depending on the OS of your machine. 
 
 Create a directory and name it opencmiss-sdk
 
@@ -143,6 +140,47 @@ Clone the following repo to test and see if everything works fine:
 	python run.py
 	
 You should see a GUI pop up looking similar to the image below:
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 <img src="screenshot.png">
 
