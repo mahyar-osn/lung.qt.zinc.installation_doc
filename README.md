@@ -145,7 +145,7 @@ Clone the following repo to test and see if everything works fine:
 	
 You should see a GUI pop up looking similar to the image below:
 	
-https://raw.githubusercontent.com/mahyar-osn/lung.qt.zinc.installation_doc/blob/master/screenshot.png
+![github-small](https://raw.githubusercontent.com/mahyar-osn/lung.qt.zinc.installation_doc/blob/master/screenshot.png)
 
 
 
